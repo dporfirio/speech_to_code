@@ -3,3 +3,5 @@
 
 # main repos
 - git: {local-name: wisc_ros2_msgs, uri: 'https://github.com/dporfirio/wisc_ros2_msg.git', version: master}
+- git: {local-name: SemanticParser, uri: 'https://github.com/Wisc-HCI/SemanticParser.git', version: master}
+- git: {local-name: commanded_stt, uri: 'https://github.com/Wisc-HCI/commanded_stt.git', version: master}
