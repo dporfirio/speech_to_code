@@ -19,6 +19,7 @@ git pull origin master
 Congratulations, you have now pulled all the necessary ros2 subrepositories.
 
 *NOTE: Do NOT ```git add``` the subrepositories to the parent repository.*
+
 *ANOTHER NOTE: You can seamlessly enter a subrepository that got pulled, make changes to it, and push it to its own repository within the directory of the subrepository.* 
 
 
