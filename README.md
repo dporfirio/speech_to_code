@@ -7,7 +7,7 @@ The purpose of this project is to demonstrate the use of a .rosinstall file. Whi
 1. Initialize a git repository and link it to the remote repository
 
 ```
-mkdir ~Documents/speech_to_code
+mkdir ~/Documents/speech_to_code
 cd ~/Documents/speech_to_code
 git init
 git remote add origin https://github.com/dporfirio/speech_to_code.git
