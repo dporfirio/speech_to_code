@@ -14,7 +14,12 @@ git remote add origin https://github.com/dporfirio/speech_to_code.git
 git pull origin master
 ```
 
-2. Run ```rosws update```
+2.Run the following:
+
+```
+cd src
+rosws update
+```
 
 Congratulations, you have now pulled all the necessary ros2 subrepositories.
 
@@ -24,3 +29,5 @@ Congratulations, you have now pulled all the necessary ros2 subrepositories.
 
 
 3. run ```colcon build```
+
+4. See the individual subrepositories associated with this repository for information about how to run each individual ros node.
