@@ -4,7 +4,7 @@ This is an example ROS2 project that converts speech to text and parses it into 
 The purpose of this project is to demonstrate the use of a .rosinstall file. While this repository does not contain any of the necessary code to listen to speech, convert it to text, and then parse it into code, a .rosinstall file enables us to pull this code from existing github repositories.
 
 ## Installation for Developers
-1. Initialize a git repository and link it to the remote repository
+1. Initialize a local git repository and link it to the remote repository
 
 ```
 mkdir ~/Documents/speech_to_code
